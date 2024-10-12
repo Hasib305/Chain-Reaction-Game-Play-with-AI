@@ -1,9 +1,5 @@
 # Chain Reaction Game
 
-### Overview  
-Chain Reaction is a **multiplayer strategy game** developed using **Python and Pygame**. The game involves players strategically placing orbs in cells on a grid-based board, triggering chain reactions through cell explosions. The objective is to **infect opponents' orbs** and dominate the board by managing chain reactions effectively.
-
-
 ---
 
 ## Introduction
