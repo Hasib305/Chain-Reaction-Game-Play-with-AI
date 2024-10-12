@@ -3,20 +3,17 @@
 ### Overview  
 Chain Reaction is a **multiplayer strategy game** developed using **Python and Pygame**. The game involves players strategically placing orbs in cells on a grid-based board, triggering chain reactions through cell explosions. The objective is to **infect opponents' orbs** and dominate the board by managing chain reactions effectively.
 
-### Table of Contents
-- [Introduction](#introduction)  
-- [Objectives](#objectives)  
-- [Gameplay Mechanics](#gameplay-mechanics)  
-- [AI Methods](#ai-methods)  
-- [Installation](#installation)  
-- [How to Play](#how-to-play)  
-- [Video Demo](#video-demo)  
-- [License](#license)  
 
 ---
 
 ## Introduction
 The **Chain Reaction** game offers a highly engaging and competitive gameplay experience, challenging players' **strategic thinking**. Built as part of a university project, it utilizes **AI algorithms like Minimax, Alpha-Beta Pruning, Genetic Algorithms, and Fuzzy Logic** to enhance the decision-making process of the computer opponent.
+
+---
+
+## Demo Play
+
+https://github.com/user-attachments/assets/c0cb29a9-b71f-43dc-b128-9bfa2e32ff6d
 
 ---
 
